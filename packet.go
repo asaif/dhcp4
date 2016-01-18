@@ -320,6 +320,8 @@ const (
 	OptionTZDatabaseString OptionCode = 101
 
 	OptionClasslessRouteFormat OptionCode = 121
+
+	OptionCutomMessage OptionCode = 151
 )
 
 /* Notes
